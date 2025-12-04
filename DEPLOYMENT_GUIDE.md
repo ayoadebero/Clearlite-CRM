@@ -130,6 +130,7 @@ You need to run the seed script once to populate the database with default users
 
    ```bash
    railway login
+
    ```
 
 3. Link to your project:
