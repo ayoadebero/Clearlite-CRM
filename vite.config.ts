@@ -11,5 +11,8 @@ export default defineConfig({
         changeOrigin: true,
       }
     }
+  },
+  preview: {
+    allowedHosts: ['frontend-production-169b.up.railway.app']
   }
 })
